@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Gleam.io Autosolve
 // @namespace    GLEAM
-// @version      1.6
+// @version      1.7
 // @description  lets save some time
 // @author       Tackyou & Royalgamer06
 // @license      https://raw.githubusercontent.com/Tackyou/Gleam.io-Autosolve/master/LICENSE
-// @icon         http://i.imgur.com/6PuVE2l.png
+// @icon         https://gleam.io/favicon.ico
 // @match        *://*gleam.io/*
 // @supportURL   https://github.com/Tackyou/Gleam.io-Autosolve/issues
 // @updateURL    https://raw.githubusercontent.com/Tackyou/Gleam.io-Autosolve/master/gleamio.user.js
