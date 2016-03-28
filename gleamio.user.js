@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gleam.io Autosolve
 // @namespace    GLEAM
-// @version      1.6
+// @version      1.7
 // @description  lets save some time
 // @author       Tackyou
 // @license      https://raw.githubusercontent.com/Tackyou/Gleam.io-Autosolve/master/LICENSE
